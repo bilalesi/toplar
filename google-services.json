@@ -1,0 +1,40 @@
+{
+	"project_info": {
+		"project_number": "141611291873",
+		"firebase_url": "https://lar-app--dev.firebaseio.com",
+		"project_id": "lar-app--dev",
+		"storage_bucket": "lar-app--dev.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:141611291873:android:be11c14dbfa692c38493a0",
+				"android_client_info": {
+					"package_name": "com.larapp"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "141611291873-8fquljuovamsomsjc5aphijif6fjt66r.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyDZAjgZbWqVfZeTcDQXh__Dv-1xE4dpx34"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "141611291873-8fquljuovamsomsjc5aphijif6fjt66r.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}

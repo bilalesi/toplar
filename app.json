@@ -1,0 +1,46 @@
+{
+	"expo": {
+		"name": "TopLar",
+		"slug": "lar",
+		"platforms": ["ios", "android", "web"],
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#6100ee"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"description": "Application that manages apartment rentals. https://github.com/grifotv/toplar",
+		"android": {
+			"package": "com.larapp",
+			"googleServicesFile": "./google-services.json"
+		},
+		"ios": {
+			"bundleIdentifier": "com.larapp",
+			"googleServicesFile": "./GoogleService-Info.plist",
+			"supportsTablet": true
+		},
+		"web": {
+			"config": {
+				"firebase": {
+					"apiKey": "AIzaSyCvvBPzekUQaOtNzX7X1-PMj2yzSCqQw7k",
+					"authDomain": "lar-app--dev.firebaseapp.com",
+					"databaseURL": "https://lar-app--dev.firebaseio.com",
+					"projectId": "lar-app--dev",
+					"storageBucket": "lar-app--dev.appspot.com",
+					"messagingSenderId": "141611291873",
+					"appId": "1:141611291873:web:c5792aafced0cf758493a0",
+					"measurementId": "G-RNBKTTHPR4"
+				}
+			}
+		},
+		"extra": {
+			"googleMapsApiKey": "AIzaSyCIKHDOjNsXJjxciXqxL_JZ1se-5gDeih0"
+		}
+	}
+}

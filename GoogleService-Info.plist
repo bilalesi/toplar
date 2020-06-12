@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>141611291873-c3b8i1pdu8immn29asvao38j3uht16fc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.141611291873-c3b8i1pdu8immn29asvao38j3uht16fc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDAeVPflFTVnWxPGD3UmNe1ds4Cg0RUwro</string>
+	<key>GCM_SENDER_ID</key>
+	<string>141611291873</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.larapp</string>
+	<key>PROJECT_ID</key>
+	<string>lar-app--dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lar-app--dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:141611291873:ios:2aa646c09342bccf8493a0</string>
+	<key>DATABASE_URL</key>
+	<string>https://lar-app--dev.firebaseio.com</string>
+</dict>
+</plist>
